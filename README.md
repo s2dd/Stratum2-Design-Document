@@ -1,2 +1,62 @@
-# Stratum2-Design-Document
-Stratum2 Design Document
+This is the "Stratum2" Design Document, a system design building on the "Stratum V2 Protocol Specification"  
+(+) Extension Components.  
+
+It can translate "Stratum" plain unencrypted clear text json to Stratum2 encrypted binary connection network.  
+
+Also do own transaction selection, if configured as such, and go solo if needed or preferred.  
+
+***
+
+![alt text](/assets/S2_Component_Cluster_transp_grey.png "Components Identification")
+
+Component Clusters shown is reused fully in waterfall of incoming message / outgoing message flow.
+
+To the degree that the Proxy itself is used for creating a Pool.
+
+> ![alt text](/assets/S2_plus_accounting_transp_1.png "Proxy Accounting Pool")
+
+Accounting added uses the raw traffic from Datastore that is filtered to records.  
+
+***  
+
+> Composition of the above standalone Components will be able result in below diagram :  
+
+***  
+
+![alt text](/assets/S2_Proxy_proxy_coinbase.png "Proxy Proxy to Pool")  
+
+***  
+
+> Mining-Devices has a local Proxy that can connect to a remote Proxy before the aggregated hashrate collects in "Pool Accounting".  
+
+***  
+
+> Proxy Dashboard will be able see all shares submitted to common Pool.  
+
+***  
+
+> When Proxy meet Target Difficulty it will broadcast to Network via connected Template Provider,  
+also signal Pool that in turn reach all connected Proxy => Template Provider for broadcast.  
+
+***  
+
+> The Pool Component Cluster has a Coinbase Component that Proxy can use with it's connected Template Provider, to at anytime, be able go solo.  
+
+***  
+
+Components above will further need be deconstructed, to all have its own diagram and UML representation.   
+
+Donate :  
+
+lightning-address :  
+s2dd@coinos.io
+
+corn-address      :  
+bc1qkqmt86qg4yz9rgp4u3cjct6wfjwftyn88nkcqd
+
+Contact           :  
+stratum2dd@protonmail.com
+
+We are following the "Stratum V2 Protocol Specification" :  
+https://github.com/stratum-mining/sv2-spec  
+++  
