@@ -7,7 +7,7 @@ Also do own transaction selection, if configured as such, and go solo if needed 
 
 ***    
 
-![alt text](/assets/S2_Component_Cluster_transp_1.png "Components Identification")  
+![alt text](/assets/S2_Component_Cluster_transp_2.png "Components Identification")  
 
 Component Clusters shown is reused fully in waterfall of incoming message / outgoing message flow.
 
@@ -23,7 +23,7 @@ Accounting added uses the raw traffic from Datastore that is filtered to records
 
 > ***  
 
-![alt text](/assets/S2_Proxy_proxy_coinbase.png "Proxy Proxy to Pool")  
+![alt text](/assets/S2_Proxy_Proxy_coinbase_1.png "Proxy Proxy to Pool")  
 
 > ***  
 
