@@ -7,13 +7,13 @@ Also do own transaction selection, if configured as such, and go solo if needed 
 
 ***    
 
-> ![alt text](/assets/S2_Component_Cluster_transp_1.png "Components Identification")  
+![alt text](/assets/S2_Component_Cluster_transp_1.png "Components Identification")  
 
 Component Clusters shown is reused fully in waterfall of incoming message / outgoing message flow.
 
 To the degree that the Proxy itself is used for creating a Pool.
 
-> ![alt text](/assets/S2_plus_accounting_transp_1.png "Proxy Accounting Pool")
+![alt text](/assets/S2_plus_accounting_transp_1.png "Proxy Accounting Pool")
 
 Accounting added uses the raw traffic from Datastore that is filtered to records.  
 
