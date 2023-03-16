@@ -7,7 +7,7 @@ Also do own transaction selection, if configured as such, and go solo if needed 
 
 ***
 
-![alt text](/assets/S2_Component_Cluster_transp_grey.png "Components Identification")
+![alt text](/assets/S2_plus_accounting_transp_1.png "Components Identification")
 
 Component Clusters shown is reused fully in waterfall of incoming message / outgoing message flow.
 
