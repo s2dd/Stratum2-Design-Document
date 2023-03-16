@@ -46,17 +46,10 @@ also signal Pool that in turn reach all connected Proxy => Template Provider for
 
 Components above will further need be deconstructed, to all have its own diagram and UML representation.   
 
-Donate :  
-
-lightning-address :  
-s2dd@coinos.io
-
-corn-address      :  
-bc1qkqmt86qg4yz9rgp4u3cjct6wfjwftyn88nkcqd
 
 Contact           :  
 stratum2dd@protonmail.com
 
 We are following the "Stratum V2 Protocol Specification" :  
 https://github.com/stratum-mining/sv2-spec  
-++  
+++ massage and addons.
