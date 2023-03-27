@@ -54,5 +54,6 @@ We are following the "Stratum V2 Protocol Specification" :
 https://github.com/stratum-mining/sv2-spec  
 ++ massage and addons.  
 
+***  
 
 ![alt text](/assets/S2_Proxy_Multiplexer.png "S2Proxy Multiplexer")  
