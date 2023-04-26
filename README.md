@@ -27,7 +27,7 @@ Accounting added uses the raw traffic from Datastore that is filtered to records
 
 > ***  
 
-> Mining-Devices has a local Proxy that can connect to a remote Proxy before the aggregated hashrate collects in "S2Pool Accounting".  
+> Mining-Devices has a local S2Proxy that can connect to a remote S2Proxy before the aggregated hashrate collects in "S2Pool Accounting".  
 
 > ***  
 
