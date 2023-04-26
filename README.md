@@ -1,4 +1,4 @@
-This is the "Stratum2" Design Document, a system design building on the "Stratum V2 Protocol Specification"  
+This is the "Stratum2" (S2) Design Document, a system design building on the "Stratum V2 Protocol Specification"  
 (+) Extension Components.  
 
 It can translate "Stratum" plain unencrypted clear text json to "Stratum2" encrypted binary connection network.  
