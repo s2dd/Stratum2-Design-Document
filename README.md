@@ -35,7 +35,7 @@ Accounting added uses the raw traffic from Datastore that is filtered to records
 
 > ***  
 
-> When S2Proxy meet Target Difficulty it will broadcast to Network via connected the Template Provider,  
+> When S2Proxy meet Target Difficulty it will broadcast to Network via the connected Template Provider,  
 also signal Pool that in turn reach all connected S2Proxy => Template Provider for broadcast.  
 
 > ***  
