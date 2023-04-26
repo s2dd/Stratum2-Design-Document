@@ -31,7 +31,7 @@ Accounting added uses the raw traffic from Datastore that is filtered to records
 
 > ***  
 
-> Proxy Dashboard will be able see all shares submitted to common Pool.  
+> S2Proxy Dashboard will be able see all shares submitted to common S2Pool.  
 
 > ***  
 
