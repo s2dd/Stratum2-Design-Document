@@ -1,7 +1,7 @@
 This is the "Stratum2" (S2) Design Document, a system design building on the "Stratum V2 Protocol Specification"  
 (+) Extension Components.  
 
-It can translate "Stratum" plain unencrypted clear text json to "Stratum2" encrypted binary connection network.  
+It can translate "Stratum" plain unencrypted clear text json to S2 encrypted binary connection network.  
 
 Also do own transaction selection, if configured as such, and go solo if needed or preferred.   
 
