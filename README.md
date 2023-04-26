@@ -11,7 +11,7 @@ Also do own transaction selection, if configured as such, and go solo if needed 
 
 Component Clusters shown is reused fully in waterfall of incoming message / outgoing message flow.
 
-To the degree that the Proxy itself is used for creating a Pool.
+To the degree that the S2Proxy itself is used for creating a S2Pool.
 
 ![alt text](/assets/S2_plus_accounting_transp_2.png "Proxy Accounting Pool")
 
@@ -27,7 +27,7 @@ Accounting added uses the raw traffic from Datastore that is filtered to records
 
 > ***  
 
-> Mining-Devices has a local Proxy that can connect to a remote Proxy before the aggregated hashrate collects in "Pool Accounting".  
+> Mining-Devices has a local Proxy that can connect to a remote Proxy before the aggregated hashrate collects in "S2Pool Accounting".  
 
 > ***  
 
@@ -35,12 +35,12 @@ Accounting added uses the raw traffic from Datastore that is filtered to records
 
 > ***  
 
-> When Proxy meet Target Difficulty it will broadcast to Network via connected Template Provider,  
-also signal Pool that in turn reach all connected Proxy => Template Provider for broadcast.  
+> When S2Proxy meet Target Difficulty it will broadcast to Network via connected the Template Provider,  
+also signal Pool that in turn reach all connected S2Proxy => Template Provider for broadcast.  
 
 > ***  
 
-> The Pool Component Cluster has a Coinbase Component that Proxy can use with it's connected Template Provider, to at anytime, be able go solo.  
+> The S2Pool Component Cluster has a Coinbase Component that Proxy can use with it's connected Template Provider, to at anytime, be able go solo.  
 
 > ***  
 
