@@ -13,7 +13,7 @@ Component Clusters shown is reused fully in waterfall of incoming message / outg
 
 To the degree that the Proxy itself is used for creating a Pool.
 
-![alt text](/assets/S2_plus_accounting_transp_2.png "Proxy Accounting Pool")
+![alt text](/assets/S2_plus_accounting_transp_2.png ("Proxy Accounting Pool")
 
 Accounting added uses the raw traffic from Datastore that is filtered to records.  
 
