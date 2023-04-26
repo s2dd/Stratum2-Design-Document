@@ -23,7 +23,7 @@ Accounting added uses the raw traffic from Datastore that is filtered to records
 
 > ***  
 
-![alt text](/assets/S2_Proxy_Proxy_coinbase_2.png "Proxy Proxy to Pool")  
+![alt text](/assets/S2_Proxy_coinbase_2.png "Proxy Proxy to Pool")  
 
 > ***  
 
