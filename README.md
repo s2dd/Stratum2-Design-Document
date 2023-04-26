@@ -40,7 +40,7 @@ also signal S2Pool that in turn reach all connected S2Proxy => Template Provider
 
 > ***  
 
-> The S2Pool Component Cluster has a Coinbase Component that Proxy can use with it's connected Template Provider, to at anytime, be able go solo.  
+> The S2Pool Component Cluster has a Coinbase Component that S2Proxy can use with it's connected Template Provider, to at anytime, be able go solo.  
 
 > ***  
 
